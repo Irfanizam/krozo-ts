@@ -135,7 +135,7 @@ const Blog = () => {
             <div className="scrollable">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <img src="img/blog/blog-1.jpg" alt="blog post"></img>
+                  <img src="img/blog/18.png" alt="blog post"></img>
                 </div>
                 {/* End blog-img */}
                 <article className="article">
@@ -237,7 +237,7 @@ const Blog = () => {
             <div className="scrollable">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <img src="img/blog/blog-2.jpg" alt="blog post"></img>
+                  <img src="img/blog/19.png" alt="blog post"></img>
                 </div>
                 {/* End blog-img */}
                 <article className="article">
@@ -340,7 +340,7 @@ const Blog = () => {
             <div className="scrollable">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <img src="img/blog/blog-3.jpg" alt="blog post"></img>
+                  <img src="img/blog/20.png" alt="blog post"></img>
                 </div>
                 {/* End blog-img */}
                 <article className="article">
