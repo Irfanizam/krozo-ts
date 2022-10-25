@@ -34,7 +34,7 @@ const Blog = () => {
                 <small>Jan</small>
               </div>
 
-              <img src="img/blog/blog-1.jpg" alt="blog post"></img>
+              <img src="img/blog/18.png" alt="blog post"></img>
             </div>
             {/* End blog-img */}
 
@@ -65,7 +65,7 @@ const Blog = () => {
                 <small>Aug</small>
               </div>
 
-              <img src="img/blog/blog-2.jpg" alt="blog post"></img>
+              <img src="img/blog/19.png" alt="blog post"></img>
             </div>
             {/* End blog-img */}
 
@@ -96,7 +96,7 @@ const Blog = () => {
                 <small>Apr</small>
               </div>
 
-              <img src="img/blog/blog-3.jpg" alt="blog post"></img>
+              <img src="img/blog/20.png" alt="blog post"></img>
             </div>
             {/* End blog-img */}
 

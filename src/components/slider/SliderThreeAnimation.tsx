@@ -10,7 +10,7 @@ const Slider = () => {
         className="home-banner overlay video-banner slider-three-animation"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/banner/bg-4.jpg"
+            process.env.PUBLIC_URL + "img/banner/1.jpg"
           })`,
         }}
       >
@@ -25,7 +25,7 @@ const Slider = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  Ridinana Aria
+                  Spongebob 
                 </h1>
                 <h2
                   data-aos="fade-up"
@@ -43,9 +43,7 @@ const Slider = () => {
                   data-aos-duration="1200"
                   data-aos-delay="200"
                 >
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites, web
-                  services and online stores.
+                  I design and develop websites that met client's requirements.
                 </p>
                 <div
                   className="btn-bar"
@@ -54,7 +52,7 @@ const Slider = () => {
                   data-aos-delay="300"
                 >
                   <a className="px-btn px-btn-theme btn-md" href="#about">
-                    Read More
+                    More Info 
                   </a>
                 </div>
               </div>

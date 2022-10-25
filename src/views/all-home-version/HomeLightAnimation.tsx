@@ -33,11 +33,9 @@ const HomeThree = () => {
         <div className="container">
           <div className="row justify-content-center section-title text-center">
             <div className="col-lg-7">
-              <h3 className="font-alt">My Services</h3>
+              <h3 className="font-alt">Services Provided</h3>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                I am able to create website that has modern looks and very easy to access around.
               </p>
             </div>
           </div>
@@ -61,9 +59,7 @@ const HomeThree = () => {
             <div className="col-lg-7">
               <h3 className="font-alt">My Portfolio</h3>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                I am a website developer with years of experience.
               </p>
             </div>
           </div>
@@ -85,11 +81,9 @@ const HomeThree = () => {
         <div className="container">
           <div className="row justify-content-center section-title text-center">
             <div className="col-lg-7">
-              <h3 className="font-alt">Recent articles</h3>
+              <h3 className="font-alt">Review and Feedback</h3>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                Customers feedback and their opinion.
               </p>
             </div>
           </div>
@@ -138,9 +132,7 @@ const HomeThree = () => {
                     <i className="ti-map"></i>
                   </div>
                   <span className="media-body">
-                    123 Stree New York City , <br />
-                    United States Of America <br />
-                    NY 750065.
+                    Bangi, Kedah, Malaysia 210030
                   </span>
                 </div>
                 {/* End media */}
@@ -155,9 +147,9 @@ const HomeThree = () => {
                     <i className="ti-email"></i>
                   </div>
                   <span className="media-body">
-                    support@domain.com
+                    malaysia1@gmail.com
                     <br />
-                    info@domain.com
+                    servicecenter@domain.com
                   </span>
                 </div>
                 {/* End media */}
@@ -172,9 +164,9 @@ const HomeThree = () => {
                     <i className="ti-mobile"></i>
                   </div>
                   <span className="media-body">
-                    +044 966 9696 636
+                  032320323
                     <br />
-                    +044 966 9696 636
+                    0-3239293293
                   </span>
                 </div>
                 {/* End media */}

@@ -24,7 +24,7 @@ export default function SimpleSlider() {
 
   const TestimonilContent = [
     {
-      imageName: "team-1",
+      imageName: "6",
       desc: `  I design and develop services for customers of all sizes,
       specializing in creating stylish, modern websites, web services
       and online stores.`,
@@ -32,7 +32,7 @@ export default function SimpleSlider() {
       rating: "5.0",
     },
     {
-      imageName: "team-2",
+      imageName: "7",
       desc: `  I design and develop services for customers of all sizes,
       specializing in creating stylish, modern websites, web services
       and online stores.`,
@@ -40,7 +40,7 @@ export default function SimpleSlider() {
       rating: "4.8",
     },
     {
-      imageName: "team-4",
+      imageName: "8",
       desc: `  I design and develop services for customers of all sizes,
       specializing in creating stylish, modern websites, web services
       and online stores.`,

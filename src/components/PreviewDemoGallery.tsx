@@ -6,39 +6,39 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 export default function SimpleSlider() {
   const AllDemos = [
     {
-      imageName: "light-animation",
+      imageName: "17",
       title: "Light Theme Animation",
       routePath: "home-light-animation",
       animationDelay: "",
     },
     {
-      imageName: "dark-animation",
+      imageName: "16",
       title: "Dark Theme Animation",
       routePath: "home-dark-animation",
       animationDelay: "100",
     },
     {
-      imageName: "light-theme",
+      imageName: "18",
       title: "Light Theme",
       routePath: "home-light",
       animationDelay: "200",
     },
 
     {
-      imageName: "dark-theme",
+      imageName: "19",
       title: "Dark Theme",
       routePath: "home-dark",
       animationDelay: "",
     },
 
     {
-      imageName: "video-light",
+      imageName: "20",
       title: "Video Light Theme",
       routePath: "home-video-light",
       animationDelay: "100",
     },
     {
-      imageName: "video-dark",
+      imageName: "21",
       title: "Video Dark Theme",
       routePath: "home-video-dark",
       animationDelay: "200",
@@ -46,20 +46,20 @@ export default function SimpleSlider() {
   ];
   const LightDemos = [
     {
-      imageName: "video-light",
+      imageName: "17",
       title: "Video Light Theme",
       routePath: "home-video-light",
       animationDelay: "",
     },
     {
-      imageName: "light-animation",
+      imageName: "18",
       title: "Light Theme Animation",
       routePath: "home-light-animation",
       animationDelay: "100",
     },
 
     {
-      imageName: "light-theme",
+      imageName: "20",
       title: "Light Theme",
       routePath: "home-light",
       animationDelay: "200",
@@ -67,20 +67,20 @@ export default function SimpleSlider() {
   ];
   const DarkDemos = [
     {
-      imageName: "dark-theme",
+      imageName: "16",
       title: "Dark Theme",
       routePath: "home-dark",
       animationDelay: "",
     },
     {
-      imageName: "dark-animation",
+      imageName: "19",
       title: "Dark Theme Animation",
       routePath: "home-dark-animation",
       animationDelay: "100",
     },
 
     {
-      imageName: "video-dark",
+      imageName: "21",
       title: "Video Dark Theme",
       routePath: "home-video-dark",
       animationDelay: "200",
@@ -88,13 +88,13 @@ export default function SimpleSlider() {
   ];
   const AnimationDemos = [
     {
-      imageName: "dark-animation",
+      imageName: "20",
       title: "Dark Theme Animation",
       routePath: "home-dark-animation",
       animationDelay: "",
     },
     {
-      imageName: "light-animation",
+      imageName: "16",
       title: "Light Theme Animation",
       routePath: "home-light-animation",
       animationDelay: "100",

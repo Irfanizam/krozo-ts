@@ -8,7 +8,7 @@ const About = () => {
           data-aos-duration="1200"
         >
           <div className="img-box">
-            <img src="img/about/about-light-anim.jpg" alt="smiling a girl" />
+            <img src="img/about/1.jpg" alt="smiling a girl" />
           </div>
         </div>
 
@@ -19,35 +19,32 @@ const About = () => {
           data-aos-delay="100"
         >
           <div className="typo-box about-me">
-            <h3>Ridinana Aria</h3>
+            <h3>Spongebob</h3>
             <h5>
-              A Lead <span className="color-theme">UX &amp; UI</span> designer
-              based in <span className="color-theme">Canada</span>
+              A freelancer <span className="color-theme">UX &amp; UI</span> designer
+              that based in <span className="color-theme">Malaysia.</span>
             </h5>
             <p>
-              I design and develop services for customers of all sizes,
-              specializing in creating stylish, modern websites, web services
-              and online stores. My passion is to design digital user
-              experiences through the bold interface and meaningful
-              interactions. Check out my Portfolio
+              I design and develop websites with design given from client or myself <br></br>
+              &amp; also troubleshoots problem and fixes them.
             </p>
             <div className="row about-list">
               <div className="col-md-6">
                 <div className="media">
                   <label>Birthday</label>
-                  <p>4th april 1991</p>
+                  <p>13th December 1930</p>
                 </div>
                 <div className="media">
                   <label>Age</label>
-                  <p>22 Yr</p>
+                  <p>92 Years old</p>
                 </div>
                 <div className="media">
                   <label>Residence</label>
-                  <p>Canada</p>
+                  <p>Malaysia</p>
                 </div>
                 <div className="media">
                   <label>Address</label>
-                  <p>California, USA</p>
+                  <p>Bangi, Selangor</p>
                 </div>
               </div>
               {/* End .col */}
@@ -55,19 +52,19 @@ const About = () => {
               <div className="col-md-6">
                 <div className="media">
                   <label>E-mail</label>
-                  <p>info@domain.com</p>
+                  <p>irfanizam34@gmail.com</p>
                 </div>
                 <div className="media">
                   <label>Phone</label>
-                  <p>820-885-3321</p>
+                  <p>023-23929394</p>
                 </div>
                 <div className="media">
                   <label>Skype</label>
-                  <p>skype.0404</p>
+                  <p>Unavailable</p>
                 </div>
                 <div className="media">
                   <label>Freelance</label>
-                  <p>Available</p>
+                  <p>Currently</p>
                 </div>
               </div>
               {/* End .col */}
@@ -75,7 +72,7 @@ const About = () => {
             {/* End .row */}
             <div className="btn-bar">
               <a className="px-btn px-btn-theme" href="img/resume.png" download>
-                Download CV
+                Download the CV here !
               </a>
             </div>
           </div>

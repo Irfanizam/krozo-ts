@@ -13,21 +13,21 @@ const Skills = () => {
 
           <ul className="aducation-box theme-bg">
             <li>
-              <span className="dark-bg">2010-2012</span>
-              <h6>Front-end Engineer</h6>
-              <p>International Design Institute</p>
+              <span className="dark-bg">1980 - 2029</span>
+              <h6>Front-end and Back-end engineer</h6>
+              <p>University of International</p>
             </li>
 
             <li>
-              <span className="dark-bg">2010-2012</span>
+              <span className="dark-bg">2020 - 2022</span>
+              <h6>Bachelor's Degree in Computer Science</h6>
+              <p>UUM</p>
+            </li>
+
+            <li>
+              <span className="dark-bg">2019 - 2021</span>
               <h6>Graphic Designer</h6>
-              <p>Rio Design Institute</p>
-            </li>
-
-            <li>
-              <span className="dark-bg">2010-2012</span>
-              <h6>Visual Designer</h6>
-              <p>Jakarta Design Institute</p>
+              <p>UniKL</p>
             </li>
           </ul>
 
@@ -46,21 +46,21 @@ const Skills = () => {
           </div>
           <ul className="aducation-box dark-bg">
             <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Software Engineer</h6>
-              <p>Furious Design Institute</p>
+              <span className="theme-bg">2018 - 2022</span>
+              <h6>Software Developer and Mobile Application </h6>
+              <p>Silicon Valley</p>
             </li>
 
             <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Android Developer</h6>
-              <p>Ketlimte Design Ltd.</p>
+              <span className="theme-bg">2015 - 2040</span>
+              <h6>Data Analysis</h6>
+              <p>Petronas Data Department</p>
             </li>
 
             <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Rubby Developer</h6>
-              <p>Randara Institute Academy</p>
+              <span className="theme-bg">2003 - 2022</span>
+              <h6>React Developer</h6>
+              <p>Oxford University</p>
             </li>
           </ul>
           {/* End  .aducation-box */}

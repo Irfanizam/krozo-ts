@@ -55,7 +55,7 @@ const Header = () => {
               }
             >
               <Link to="/" className="sidebar-logo">
-                <img src="img/logo/logo-light.svg" alt="brand" />
+                <img src="img/logo/1.jpg" alt="brand" />
               </Link>
               <Scrollspy
                 className="anchor_nav navbar-nav ml-auto"
